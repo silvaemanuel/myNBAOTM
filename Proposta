@@ -17,8 +17,15 @@ Tela “Team Gallery”: Essa tela possui um grid com fotos do time escolhido e 
 Tela “Wallpapers”: Nessa tela o usuário encontra wallpapers temáticos do time para personalizar seu próprio device;
 Tela Configurações: Essa tela possui informações sobre o aplicativo (About), e a possibilidade de voltar à tela de Setup Inicial;
 
-Quais componentes Android serão utilizados, além de classes, bibliotecas de terceiros, paradigmas de design, etc? Sua aplicação deve usar pelo menos 3 componentes básicos de Android.
-Ainda a definir.
+Quais componentes Android serão utilizados, além de classes, bibliotecas de terceiros, paradigmas de design, etc? 
+Sua aplicação deve usar pelo menos 3 componentes básicos de Android.
+* Pretendemos obter as informações utilizando a "nbasense" API, disponível em: http://nbasense.com/nba-api/
+Também podemos utilizar os JSONs oficiais que a NBA disponibiliza:
+http://data.nba.net/10s/prod/v1/today.json
+E temos esse site aqui com uma boa lista de RSS feeders: https://www.mysportsfeeds.com/data-feeds/nba/feedlist/
+* A princípio a ideia da tela de resultados seria de mostrar o placar do ultimo jogo e disponibilizar o vídeo da ultima partida.
+Esse vídeo sempre fica disponível em certos canais no YouTube, podemos dar "embed" desse vídeo no aplicativo
+* Podemos implementar placar ao vivo sim, obtendo os dados dos RSS feed que eu citei e/ou acompanhando o twitter oficial do timeque o usuário escolheu. 
 
 Se for feito em dupla, como será dividido o trabalho?
 Será definido junto com o item anterior.
