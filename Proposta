@@ -1,0 +1,27 @@
+Proposta de Projeto - MyNBA OnTheMove
+Emanuel Silva - efis
+Renata Cristovam - rcs7
+
+A ideia é criar um aplicativo que ofereça ao usuário um portal de mídia para o seu time de preferência na liga de basquete americana NBA. O usuário terá a opção de definir seu time de preferência, tornando assim a interface do aplicativo tematizada com a logo do time escolhido. O usuário poderá ainda acompanhar os últimos resultados de jogos, ter a sua disposição o vídeo com os highlights da última partida disputada pelo time, para usuários que não puderam acompanhar o jogo, e a central de mídia atualizada com fotos do time, dos jogadores, e Wallpapers.
+Oferecer ao usuário a possibilidade de estar a par das últimas notícias e resultados do seu time, assim como galeria de fotos, wallpapers e vídeos de partidas do time de sua preferência. 
+O público alvo é amplo e parte de fãs e torcedores casuais de basquete até jogadores e técnicos. Com a proposta de atrair os usuários trazendo informações diversas de maneira centralizada no aplicativo, sem a necessidade de propagandas excessivas para ter acesso, e a comodidade de continuar acompanhando a NBA mesmo sem ter a disponibilidade de tempo para assistir aos jogos. Além de oferecer uma experiência de interface personalizada.
+Aplicativos similares encontrados na Play Store, e os pontos que destacam nosso app do mesmo são:
+NBA App (NBA Properties, Inc.) -  Interface pouco personalizável, notificações em excesso, demora para atualização de resultados em tempo real e conteúdo excessivo que foge da proposta do nosso app;
+Basketball NBA Live Scores, Stats, Schedules: 2019 (Sports Schedules) - Péssima tradução para o português, propagandas excessivas, interface saturada devido à muitas opções;
+NBA Wallpapers (Nato Droid) - Limitado a oferecer imagens e wallpapers sem opção de filtrar por time favorito;
+	
+A aplicação será estruturada da seguinte forma:
+Setup Inicial: Essa tela será exibida na primeira vez que o usuário abrir o aplicativo, ou através da tela de Configurações. Nela, o usuário define seu time padrão e nome de usuário para o aplicativo;
+Tela Inicial: Essa tela possui uma background com a logo do time escolhido pelo usuário,  o resultado da última partida disputada pelo seu time, e vídeos de “Highlights” da partida. A partir dessa tela é possível navegar para as demais telas do aplicativo, listadas abaixo;
+Tela “Team Gallery”: Essa tela possui um grid com fotos do time escolhido e a possibilidade de realizar o download delas;
+Tela “Wallpapers”: Nessa tela o usuário encontra wallpapers temáticos do time para personalizar seu próprio device;
+Tela Configurações: Essa tela possui informações sobre o aplicativo (About), e a possibilidade de voltar à tela de Setup Inicial;
+
+Quais componentes Android serão utilizados, além de classes, bibliotecas de terceiros, paradigmas de design, etc? Sua aplicação deve usar pelo menos 3 componentes básicos de Android.
+Ainda a definir.
+
+Se for feito em dupla, como será dividido o trabalho?
+Será definido junto com o item anterior.
+
+
+
